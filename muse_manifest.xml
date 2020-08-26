@@ -1,0 +1,68 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jesustirado.com" resolutions="1x" timestamp="1551290287805">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3816601291" ref="index:personal:professional:contact:interest"/>
+    <file name="index.css" crc="63689932" ref="index"/>
+    <file name="personal.css" crc="4258761990" ref="personal"/>
+    <file name="professional.css" crc="516786827" ref="professional"/>
+    <file name="contact.css" crc="397634206" ref="contact"/>
+    <file name="interest.css" crc="3846209904" ref="interest"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:interest:professional:personal:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:interest:professional:personal:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:interest:professional:personal:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:interest:professional:personal:contact"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:interest:professional:personal:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:interest:professional:personal:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:interest:professional:personal:contact"/>
+    <file name="require.js" crc="7928878" ref="index:interest:professional:personal:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="contact"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u427.php" crc="3927497788" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="screen shot 2019-02-27 at 115401 am.jpg" crc="230543117" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-27 at 115334 am.jpg" crc="423981362" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-27 at 115414 am.jpg" crc="474224958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1f1f2-1f1fd.png" crc="345168214" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-27 at 84546 am.jpg" crc="4256661158" ref="interest">
+      <caption webpage="interest" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-27 at 113841 am.jpg" crc="4226858556" ref="interest">
+      <caption webpage="interest" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-27 at 93653 am.jpg" crc="215608769" ref="professional">
+      <caption webpage="professional" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-27 at 93713 am.jpg" crc="183811561" ref="professional">
+      <caption webpage="professional" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-27 at 93736 am.jpg" crc="3771539426" ref="professional">
+      <caption webpage="professional" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-26 at 63400 pm.jpg" crc="4143644555" ref="personal">
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="screen shot 2019-02-26 at 63432 pm.jpg" crc="3776194268" ref="personal">
+      <caption webpage="personal" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="17461296" seo="true" mt="1551290247933" redirect="true"/>
+  <file name="interest.html" crc="454368667" seo="true" mt="1551289228706" redirect="true"/>
+  <file name="professional.html" crc="3961001428" seo="true" mt="1551283861258" redirect="true"/>
+  <file name="personal.html" crc="3892742805" seo="true" mt="1551283861258" redirect="true"/>
+  <file name="contact.html" crc="93021150" seo="true" mt="1551283861258" redirect="true"/>
+</manifest>
